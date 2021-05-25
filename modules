@@ -1,0 +1,5 @@
+Customer > Customer first Name , Customer Last name , email, phone number, Notes, 
+Product > Product ID, Product Details, Availablity, Cost, 
+Sevices > Servie ID, Cost, Booking,   
+Shipment > Date of Arrival,
+Staff > Staff ID, Staff First Name, Staff last Name
