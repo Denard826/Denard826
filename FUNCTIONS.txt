@@ -1,0 +1,61 @@
+FUNCTIONS
+
+1. Customer login()
+login(customerID){
+    display customer account }
+
+ login(CustometAccount){
+     display customer details }
+     
+
+2. Staff login(), totalHoursWorked()
+login(staffID){
+    display staff account }
+
+login(staffAccount){
+     display staff details }
+
+totalHoursWorked(clockout,clockin){
+    sum = clockout - clockin
+    return sum }
+
+
+3. Shipment tracking(), date()
+tracking(orderID){
+    display orderID }
+
+date(orderID){
+    display date of arrival }
+
+
+4. Product availability(), calcutateChange(), productDetails()
+availability(productID){
+    sum = productsInShelf - pruductsPurchased
+    return sum }
+
+calcutateChange(cost,amountPaid){
+    sum = amountPaid - cost
+    return sum }
+
+productDetails(productID){
+    display productDetails }
+
+
+5. Services calcutateChange(), servicesDetails(), add(),delete() 
+calcutateChange(cost,amountPaid){
+    sum = amountPaid - cost
+    return sum }
+
+servicesDetails(serviceName){
+    display servicesDetails }
+
+add(booking){
+    add booking 
+    display booking }
+
+delete(booking){
+    delete booking
+    display "booking deleted" }
+
+
+(ShwelePhulu22112032)
